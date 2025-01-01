@@ -2,7 +2,7 @@
 
 ## 📒 Descrição
 
-Este e-book de 5 páginas apresenta uma solução inovadora para automação e gerenciamento de dados financeiros. Com foco no uso de Reconhecimento Óptico de Caracteres (OCR) e aprendizado de máquina, o projeto propõe um sistema para extrair, validar e organizar informações de comprovantes de pagamento digital.
+Este e-book que apresenta uma solução inovadora para automação e gerenciamento de dados financeiros. Com foco no uso de Reconhecimento Óptico de Caracteres (OCR) e aprendizado de máquina, o projeto propõe um sistema para extrair, validar e organizar informações de comprovantes de pagamento digital.
 
 ---
 
