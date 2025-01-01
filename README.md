@@ -34,7 +34,7 @@ Este e-book que apresenta uma solução inovadora para automação e gerenciamen
 - **Eficiência Otimizada**: Processamento rápido de grandes volumes de informações financeiras.
 - **Conformidade com a LGPD**: Armazenamento seguro de dados sensíveis.
 
-### [📥 Baixe o E-Book Aqui](#)
+### 📥 Baixe o E-Book Aqui
 
 ---
 
